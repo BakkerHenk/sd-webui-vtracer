@@ -22,7 +22,7 @@ To use this extension, you need to have **vTracer** installed and configured. If
 
 ### Steps to Install
 
-1. Clone the repository or download the `vTracerIntegration.py` file.
+1. Clone the repository or download the `script.py` file.
 2. Make sure you have Stable Diffusion running and working.
 3. Install the necessary dependencies if not already installed:
 
